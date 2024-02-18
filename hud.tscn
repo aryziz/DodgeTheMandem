@@ -79,6 +79,7 @@ grow_horizontal = 2
 grow_vertical = 0
 size_flags_horizontal = 4
 theme_override_fonts/font = ExtResource("2_vrjum")
+theme_override_font_sizes/font_size = 36
 text = "Highscore: "
 
 [connection signal="pressed" from="StartButton" to="." method="_on_start_button_pressed"]
